@@ -32,12 +32,15 @@ The primary goal of this project is to analyze employee productivity data, uncov
 ## **Insights**  
 
 - **Departmental Productivity:**  
+<img src="dashboards/department_productivity.png" alt="Department Productivity" width="100%">
   Departments exhibited significant variations in productivity levels, pointing to areas that could benefit from optimized workflows or additional resources.  
 
 - **Employee-Level Insights:**  
+<img src="dashboards/employee_productivity.png" alt="Employee Productivity" width="100%">
   High-performing employees were consistently identified, offering opportunities to recognize and replicate their strategies. Conversely, areas of low productivity highlighted potential bottlenecks or the need for targeted training programs.  
 
 - **Performance Trends:**  
+<img src="dashboards/department_tasks.png" alt="Department Tasks" width="100%">
   Analysis of tasks completed per hour revealed patterns such as peak productivity times and workload distribution disparities, offering actionable insights for scheduling and resource allocation.  
 
 ---
